@@ -1,0 +1,67 @@
+.main
+{
+	width:100%;
+	display:inline;
+}
+.red1
+{
+	float:left;
+	background-color: red;
+	border-left:3px solid black;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	width: 17%;
+	height:700px;
+}
+.red2
+{
+	float: left;
+	background-color: red;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	width: 17%;
+	height:700px;
+}
+.red3
+{
+	float: left;
+	background-color: red;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	width: 17%;
+	height:700px;
+}
+.red4
+{
+	float: left;
+	background-color: red;
+	border-right:3px solid black;
+	border-top:3px solid black;
+	border-bottom:3px solid black;
+	width: 17%;
+	height:700px;
+}
+.white1
+{
+	float: left;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	width:10%;
+	height:700px;
+}
+.white2
+{
+	float: left;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	width:10%;
+	height:700px;
+}
+.white3
+{
+	float: left;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	width:10%;
+	height:700px;
+}

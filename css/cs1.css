@@ -1,0 +1,44 @@
+.d1
+{
+	margin-left: 3px;
+	background-color:red;
+	width:99.7%;
+	height:80px;
+	border-bottom:2px;
+	font-weight:  bold;
+}
+>
+.cl
+{
+	width:100%;
+	display:inline;
+}
+.d2
+{
+	margin-left: 3px;
+	font-weight: bold;
+	float: left;
+	background-color: green;
+	width:27.65%;
+	height:500px;
+	border-right: 7px solid black;
+	 
+}
+.d3
+{
+	margin-left: 0px;
+	font-weight: bold;
+	float: left; 
+	background-color:blue;
+	width:71.6%;
+	height:500px;
+}
+.d4
+{
+	margin-left: 3px;
+	font-weight: bold;
+	background-color: orange;
+	width:99.7%;
+	height:80px;
+	clear:both;
+}

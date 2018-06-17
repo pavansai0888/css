@@ -1,0 +1,20 @@
+.ci
+ {
+	width: 0;
+	height: 0;
+	position: absolute;
+	left:1400px;
+	-moz-border-radius: 60px;
+    -webkit-border-radius: 60px;
+    border-radius: 60px;	
+	border-top: 100px solid red;
+	border-right: 100px solid red;
+}
+.sq
+{
+	width: 120px;
+    height: 120px;
+    left:1400px;
+    position: relative;
+    background-color: red;
+}

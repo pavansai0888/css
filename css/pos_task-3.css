@@ -1,0 +1,22 @@
+.b1
+{
+	position: relative;
+	width: 50%;
+	height:250px;
+	background-color: palevioletred;
+}
+.b2
+{
+	position: relative;
+	left:50%;
+	width: 50%;
+	height:250px;
+	background-color: lightblue;
+}
+.b3
+{
+	position: relative;
+	width: 50%;
+	height:250px;
+	background-color: lightgreen;
+}

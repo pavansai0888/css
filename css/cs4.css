@@ -1,0 +1,26 @@
+.main
+{
+	width: 100%;
+	display: inline;
+}
+.left
+{
+	float:left;
+	background-color: red;
+	width:20%;
+	height:200px;
+}
+.middle
+{
+	float: left;
+	background-color: blue;
+	width:50%;
+	height:700px;
+}
+.right
+{
+	float:left;
+	background-color: red;
+	width:30%;
+	height:400px;
+}

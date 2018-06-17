@@ -1,0 +1,16 @@
+.b1
+{
+	position: absolute;
+	width: 70%;
+	height:740px;
+	background-color: palevioletred;
+}
+.b2
+{
+	position: relative;
+	top:0px;
+	left:70%;
+	width: 30%;
+	height:740px;
+	background-color: lightgreen;
+}

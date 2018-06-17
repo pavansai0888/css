@@ -1,0 +1,36 @@
+.main
+{
+	border-top: 1px solid black;
+}
+.b1
+{
+	position: static;
+	width: 200px;
+	height:200px;
+	background-color: palevioletred;
+}
+.b2
+{
+	position: absolute;
+	left:1328px;
+	width: 200px;
+	height:200px;
+	background-color: lightblue;
+}
+.b3
+{
+	position: absolute;
+	width: 200px;
+	height:200px;
+	top: 500px;
+	background-color: lightgreen;
+}
+.b4
+{
+	position: absolute;
+	width: 200px;
+	height:200px;
+	top:500px;
+	left: 1328px;
+	background-color: yellow;
+}

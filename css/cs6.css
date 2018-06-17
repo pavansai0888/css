@@ -1,0 +1,32 @@
+.main
+{
+	width:100%;
+	display: inline;
+
+}
+.sub
+{
+	width: 100%;
+	outline:12px solid gray;
+	height:705px;
+}
+.left
+{
+	float: left;
+	background-color: red;
+	border-top:15px solid cyan;
+	border-left:15px solid cyan;
+	border-bottom:15px solid cyan;
+	width:29%;
+	height:675px;
+}
+.right
+{
+	float: left;
+	background-color:black;
+	border-top:15px solid cyan;
+	border-right:15px solid cyan;
+	border-bottom:15px solid cyan;
+	width:69%;
+	height:675px;
+}

@@ -1,0 +1,28 @@
+.main
+{
+	
+	width:100%;
+	display: inline;
+}
+.left
+{
+	float:left;
+	border:1px solid orange;
+	width:33%;
+	height:700px;
+}
+.right
+{
+	float:left;
+	background-color: seagreen;
+	border:1px solid black;
+	width:33%;
+	height:700px;	
+}
+.middle
+{
+	float:left;
+	border:1px solid red;
+	width:33%;
+	height:700px;
+}

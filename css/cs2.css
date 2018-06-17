@@ -1,0 +1,25 @@
+.main
+{
+	width:100%
+	display: inline;
+}
+.left
+{
+	margin-left: 8px;
+	float: left;
+	background-color:navy ;
+	color: #CCC;
+	border:5px dotted blue ;
+	width:48%;
+	height:700px;
+}
+.right
+{
+	color: #ccc;
+	float:left;
+	background-color: seagreen;
+	border:5px dotted blue ;
+	margin-left:20px;
+	width:48%;
+	height:700px;	
+}
